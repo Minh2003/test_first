@@ -1404,7 +1404,6 @@ i.home-product__item-heart--like-icon-fill {
     font-weight: 600;
     line-height: 1.3rem;
     position: relative;
-    top: -4px;
 }
 
 .home-product__item-saleofflabel {
@@ -1413,7 +1412,7 @@ i.home-product__item-heart--like-icon-fill {
     font-size: 1.3rem;
     color: var(--white_color);
     position: relative;
-    top: -20px;
+    top: -4px;
 }
 
 .home--product__pagination {
